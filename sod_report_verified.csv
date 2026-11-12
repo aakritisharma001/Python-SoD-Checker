@@ -1,0 +1,8 @@
+user_id,name,conflicting_roles,risk_level
+11,Jared Ebert,admin ↔ billing,High
+98,Lowell Schroeder,admin ↔ auditor,Medium
+348,Maida Armstrong,admin ↔ billing,High
+350,Saige Pfeffer-Mayert,admin ↔ auditor,Medium
+363,Winona Abshire,auditor ↔ billing,High
+375,Nia Koss,auditor ↔ billing,High
+377,Dudley Auer,auditor ↔ billing,High

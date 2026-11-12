@@ -1,0 +1,14 @@
+{
+    "incompatible_role_pairs": [
+        ["billing", "admin"],
+        ["billing", "owner"],
+        ["billing", "auditor"],
+        ["admin", "auditor"]
+    ],
+    "payment_keywords": [
+        "payment",
+        "pay",
+        "wire",
+        "billing"
+    ]
+}

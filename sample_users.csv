@@ -1,0 +1,8 @@
+user_id,name,role,department
+U001,Asha Patel,Create Payment,Finance
+U001,Asha Patel,Approve Payment,Finance
+U002,Rohan Singh,Create Vendor,Procurement
+U002,Rohan Singh,Pay Vendor,Finance
+U003,Meera Shah,Create Purchase Order,Procurement
+U003,Meera Shah,View Reports,Finance
+U004,Kabir Das,Create Vendor,Procurement
